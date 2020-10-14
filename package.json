@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokmen4083/node-http.git"
+  },
+  "author": "Mehmet Sökmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokmen4083/node-http/issues"
+  },
+  "homepage": "https://github.com/sokmen4083/node-http#readme"
+}
